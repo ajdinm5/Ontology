@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/BDBuV2EoZ01C5P3BJ8bRKs#"
+     xml:base="http://webprotege.stanford.edu/project/BDBuV2EoZ01C5P3BJ8bRKs"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/BDBuV2EoZ01C5P3BJ8bRKs"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8WTllmECywUfBc6AYAq7U2 -->
+
+    <rdfs:Datatype rdf:about="http://webprotege.stanford.edu/R8WTllmECywUfBc6AYAq7U2">
+        <rdfs:label>visas, customs, money, electricity, dangers, and food</rdfs:label>
+    </rdfs:Datatype>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9Zz8jmeZ1b7RKw0WrYtRCP -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9Zz8jmeZ1b7RKw0WrYtRCP">
+        <rdfs:label>Description</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCjHpP1lZECZxNXPOxqm6G -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBCjHpP1lZECZxNXPOxqm6G">
+        <rdfs:label>hasFactsAboutCountry</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R33U81edOBHH74Ep6XLf3s -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R33U81edOBHH74Ep6XLf3s">
+        <rdfs:label>hasGlossary</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7jIL6IsigJ4byH3uUFD5Rw -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7jIL6IsigJ4byH3uUFD5Rw">
+        <rdfs:label>hasCoverage</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7qqcUmPaZzFTrKBlspLVi1 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7qqcUmPaZzFTrKBlspLVi1">
+        <rdfs:label>AimedAt</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5">
+        <rdfs:label>Relation</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju">
+        <rdfs:label>hasMaps</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fIFFCIGQ6sRdd6q6P5Ol1 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8fIFFCIGQ6sRdd6q6P5Ol1">
+        <rdfs:label>Contributor</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi">
+        <rdfs:label>UsedBy</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI">
+        <rdfs:label>Place</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7">
+        <rdfs:label>hasPhotographs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9bRxQTiz8zmX4aYFZfu602 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9bRxQTiz8zmX4aYFZfu602">
+        <rdfs:label>Coverage</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE">
+        <rdfs:label>Format</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDTvEtr3z87p8G5xEJXBJef -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDTvEtr3z87p8G5xEJXBJef">
+        <rdfs:label>hasSubject</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDe5hfwOmAPz6WAEBUMbczo -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDe5hfwOmAPz6WAEBUMbczo">
+        <rdfs:label>hasPictures</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn">
+        <rdfs:label>Date</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZ1Zd83S062CUrJFM5XMJQ -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RZ1Zd83S062CUrJFM5XMJQ">
+        <rdfs:label>hasPhotografs</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RkWL6t1dSZmGts288W0qxb -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RkWL6t1dSZmGts288W0qxb">
+        <rdfs:label>Subject</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM">
+        <rdfs:label>History</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhibpEsskrNXv5bENnOM8"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ZqqhL2WeAbQL6MMRkcoQQ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7ZqqhL2WeAbQL6MMRkcoQQ">
+        <rdfs:label>Lonely Planet Guides</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rli1Q72kGb2T8IdWKtAdvM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Asia</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi"/>
+                <owl:hasValue>budget-conscious travelers</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>South America</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBCjHpP1lZECZxNXPOxqm6G"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/Re99CA1PF8n3Kgv1FLzncl"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi"/>
+                <owl:hasValue>adventurous travelers</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBCjHpP1lZECZxNXPOxqm6G"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RLlYCxH6fiXt9IRfyYjLRN"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RDTvEtr3z87p8G5xEJXBJef"/>
+                <owl:hasValue>Daily Survival</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Africa</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RBCjHpP1lZECZxNXPOxqm6G"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7"/>
+                <owl:hasValue>Color</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Indian subcontinent</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7"/>
+                <owl:hasValue>Black-White</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju"/>
+                <owl:hasValue>Black-White</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R7jIL6IsigJ4byH3uUFD5Rw"/>
+                <owl:hasValue>visas, customs, money, electricity, dangers, food</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju"/>
+                <owl:hasValue>Color</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SB3lbo8wKtOEKmUrfteDb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9SB3lbo8wKtOEKmUrfteDb">
+        <rdfs:label>Travelogues</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn"/>
+                <owl:hasValue>960-1670</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB7kBkrRVoU83aYJoOYPaki -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RB7kBkrRVoU83aYJoOYPaki">
+        <rdfs:label>Mountain guides</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>climbing</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>scrambling</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>hill</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>mountaineering</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>walking</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBTL8bAouiOfMXdZeRr7B8T -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBTL8bAouiOfMXdZeRr7B8T">
+        <rdfs:label>Post-WW2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fIFFCIGQ6sRdd6q6P5Ol1"/>
+                <owl:hasValue>Arthur Frommer</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fIFFCIGQ6sRdd6q6P5Ol1"/>
+                <owl:hasValue>Eugene Fodor</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1945</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBhibpEsskrNXv5bENnOM8 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBhibpEsskrNXv5bENnOM8">
+        <rdfs:label>Guide Book</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi"/>
+                <owl:hasValue>Tourists</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE"/>
+                <owl:hasValue>Mobile Application</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE"/>
+                <owl:hasValue>Web Site</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>accommodation</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9Zz8jmeZ1b7RKw0WrYtRCP"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/Rao9Xy8TdYzKNrMgIRwa8h"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>activities</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>transportation</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8JZ7IKzUFH22LvTOUtebX5"/>
+                <owl:hasValue>restaurants</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RkWL6t1dSZmGts288W0qxb"/>
+                <owl:hasValue>Travel</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE"/>
+                <owl:hasValue>E-book</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi"/>
+                <owl:hasValue>Visitors</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE"/>
+                <owl:hasValue>Book</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:comment>Example:  Wikivoyage</rdfs:comment>
+        <rdfs:seeAlso>Travel Guide</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBq0OQvREMaARgQL00LDjWl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBq0OQvREMaARgQL00LDjWl">
+        <rdfs:label>Modern guidebook</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fIFFCIGQ6sRdd6q6P5Ol1"/>
+                <owl:hasValue>John Murray</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn"/>
+                <owl:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1860</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC54sY2NNHXo0DEQNsZMY5A -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RC54sY2NNHXo0DEQNsZMY5A">
+        <rdfs:label>Antiquity</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7YnsDJg8YcxhvyHHhimBlM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RE1jJw4TlnyzT8Euuv6NVn"/>
+                <owl:hasValue>1st Century</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCBFuQ6flgOSwgbp3OEuukE"/>
+                <owl:hasValue>manuscript document</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:seeAlso>Periegesis</rdfs:seeAlso>
+        <rdfs:seeAlso>Periplus</rdfs:seeAlso>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCLbJ3yCuCbuXV5aqCJHT3D -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCLbJ3yCuCbuXV5aqCJHT3D">
+        <rdfs:label>Moon Guides</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rli1Q72kGb2T8IdWKtAdvM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8fvRuV4OpZ7OoayVx2LERi"/>
+                <owl:hasValue>adventurous traveler</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R33U81edOBHH74Ep6XLf3s"/>
+                <owl:hasValue>Glossary</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7"/>
+                <owl:hasValue>some color</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9MB3G4BYW117YNlb72G6c7"/>
+                <owl:hasValue>black-white</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Pacific Mexico</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Asia</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDLhqVwmXFqXOk8N3uGQtzs -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDLhqVwmXFqXOk8N3uGQtzs">
+        <rdfs:label>Michelin Guides</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rli1Q72kGb2T8IdWKtAdvM"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju"/>
+                <owl:hasValue>Routes</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju"/>
+                <owl:hasValue>black/white sketches</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>U.S. Continent</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8csQV86P9DiiHB5hwU1Ju"/>
+                <owl:hasValue>detailed city-center maps</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9AJ8eBNwjEEDsuXQodCIvI"/>
+                <owl:hasValue>Europe</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R9bRxQTiz8zmX4aYFZfu602"/>
+                <owl:hasValue>detailed descriptions and extensive cultural and historical tours</owl:hasValue>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rli1Q72kGb2T8IdWKtAdvM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rli1Q72kGb2T8IdWKtAdvM">
+        <rdfs:label>Types</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RBhibpEsskrNXv5bENnOM8"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RLlYCxH6fiXt9IRfyYjLRN -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RLlYCxH6fiXt9IRfyYjLRN">
+        <rdfs:label>Geography</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rao9Xy8TdYzKNrMgIRwa8h -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Rao9Xy8TdYzKNrMgIRwa8h">
+        <rdfs:label>a book of information about a place, designed for the use of visitors or tourists</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Re99CA1PF8n3Kgv1FLzncl -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/Re99CA1PF8n3Kgv1FLzncl">
+        <rdfs:label>Culture</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://webprotege.stanford.edu/R8jNjDWCw6oQ7jWscP9AYKS">
+        <rdfs:label>Post-WW2</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.5.0) http://owlapi.sourceforge.net -->
+
